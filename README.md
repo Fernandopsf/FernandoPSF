@@ -1,7 +1,8 @@
+##
 ### Hello there 👋
 
 In 2019 I gave the first step towards day trading in future markets, in 2020 I felt the need to automate my operations in financial market, throught Python and Metatrader 5 API, I manage to fulfill that goal, so I proceeded sudying Python for finance,by the end of 2021, I was backtesting trading strategies either from youtube channels or my own, using some statistics and linear regression models, in order to create bots for automate trading, it was when I realize that part of what I already know can also be used for data science, so my goal now is to fill the gap of what is required to become a data scientist.        
-
+##
 <!--
 **Fernandopsf/FernandoPSF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
