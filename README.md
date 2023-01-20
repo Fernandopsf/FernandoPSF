@@ -17,11 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I Started
 -->
-<div align="center">
-  <a href="https://github.com/Fernandopsf">
-  <img height="180em" src="https://github-readme-stats.vercel_1.app/api?username=Fernandopsf&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel_1.app/api/top-langs/?username=fernandopsf&layout=compact&langs_count=7&theme=blue"/>
-</div>
+
 
 <div style="display: inline_block"><br>
 
